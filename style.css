@@ -13,3 +13,7 @@ p {
 dummy {
 	some-property: false;	
 }
+
+dummy2 {
+	some-property: true;	
+}
