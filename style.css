@@ -10,6 +10,13 @@ p {
 	color: blue;	
 }
 
+dummy {
+	some-property: false;	
+}
+
+dummy2 {
+	some-property: true;	
+
 somehting {
 	some-property: some value;	
 }
